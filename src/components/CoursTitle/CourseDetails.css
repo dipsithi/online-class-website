@@ -1,0 +1,30 @@
+.courseDetails{
+    border-bottom: 1px solid lightcoral;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    padding-bottom: 5px;
+}
+
+.courseName{
+    color: tomato;
+    font-weight: 700;
+    align-items: center;
+}
+
+.courseDetails h5{
+    color: lightslategray;
+    border-radius: 1px solid;
+    font-weight: 700;
+    
+}
+.description{
+    text-align: justify;
+    
+}
+
+.btn{
+    width: 150px;
+    height: 40px;
+    border:1px solid red;
+    border-radius:10px;
+}

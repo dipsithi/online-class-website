@@ -1,0 +1,20 @@
+
+
+.cart h6 {
+    border: 1px solid lightskyblue;
+    background-color: red;
+    align-items: right;
+    margin-left: 10px;
+    font-weight: 700;
+    color: white;
+    font-size: 18px;
+}
+
+.cart p {
+    font-weight: 700;
+}
+
+.fees{
+    border: 1px solid lightskyblue;
+    background-color:lightgray;
+}
